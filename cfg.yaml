@@ -1,0 +1,58 @@
+# 采集器名称
+collect_title : "shops_auto_get"
+PP_title : 'PP WORK'
+
+# 多多采集宝的安装位置
+shops_path : 'D:\Users\Administrator\AppData\Local\Programs\shops_auto_get\多多采宝.exe'
+
+# 采集时，在商品详情也做随机操作，减少风控检测
+auto_operate_in_goods_page : True
+
+#采集完成后自动提交
+auto_upload : False
+
+# 登录id
+pp_login_id : '7667b44b6b89413ca11c2273b728fce5'
+
+# 一次采集的数据量
+get_data_num : 100
+
+# 采集副本次数
+collect_counts : 2
+
+# 当队列中堆积的待采集的商品数达到该值时，结束采集任务
+goods_max : 12
+
+# 商品向下滚动一次的步长
+scroll_step : 5
+
+# 商品图片高度
+image_height : 360
+
+# 开头获取撞库次数
+get_pull_counts : 30
+
+# 元字图标同时在屏幕上展示的数量
+yuan_num : 3
+
+# 浏览器缩放比例(当前不支持缩放浏览器)
+percent : 1
+
+# 进程名称
+progress_PP : 'PP-2.0.6.exe'
+progress_shops : '多多采宝.exe'
+
+# 鼠标常驻点
+x : 1490
+y : 990
+
+#ppwork拖动位置
+pp_x : 1390
+pp_y : 55
+
+#多多采宝拖动位置
+shops_x : 260
+shops_y : 425
+
+
+button : 'confirm_add.png'

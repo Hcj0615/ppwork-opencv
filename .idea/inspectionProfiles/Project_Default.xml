@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="shop_current" />
+            <item index="1" class="java.lang.String" itemvalue="is-suspend" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="pymssql" />
+            <item index="1" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="2" class="java.lang.String" itemvalue="robotframework" />
+            <item index="3" class="java.lang.String" itemvalue="PyMySQL" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Spricts.test.safedrivertest.By" />
+          <option value="RobotFrameworkIDE.robotide" />
+          <option value="E_Pylibs.E_Script.base.webelement.operations.el_workflow.el_workflowmodel.arg_wrapper" />
+          <option value="E_Pylibs.E_Script.base.webelement.operations.PLMmanage.el_metergroup.arg_wrapper" />
+          <option value="E_Pylibs.E_Script.base.webelement.operations.PLMmanage.el_basic_PLM.arg_wrapper" />
+          <option value="E_Pylibs.E_base.Util.common.decorators.MyClass" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,3 @@
+2025-07-18 17:01:34.709 test.py[8] <module> -> Find Control Timeout(10s): {Name: '浏览器', ControlType: ButtonControl}
+2025-07-18 17:02:57.581 test.py[8] <module> -> Find Control Timeout(10s): {Name: '浏览器', ControlType: ButtonControl}
+2025-07-18 17:06:44.209 test.py[8] <module> -> Find Control Timeout(10s): {Name: '浏览器', ControlType: ButtonControl}
